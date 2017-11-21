@@ -1,0 +1,1980 @@
+cd d
+cd /d
+ll
+ls -a
+pwd
+cd d:
+cd d:/
+ls d:
+ls d:/
+cd Downloads\
+ls
+ls -a
+ls d:/
+cd Downloads\
+ls -a
+ls
+ls
+ls
+ls
+ls -a
+cd Downloads\
+ls
+ls
+ls -a
+cd d:
+ls d:/
+d:
+cd software\
+ls
+git
+ls d:/
+cd software\
+ls
+git
+cd d:
+d:
+cd .
+cd ..
+dir
+clear
+exit
+ls
+ssh root@192.168.5.190
+ssh
+exit
+echo $PATH
+echo %PATH%
+exit
+dbeaver
+chrome
+leanote
+Leanote
+echo %PATH%
+tomcat
+echo %PATH%
+leanote
+cmd
+cmder
+chrome
+tomcat
+exit
+tomcat
+cls
+notebook
+notepad
+idea
+chrome
+d:
+hbuider
+exit
+hbuider
+ssh root@192.168.5.190
+hbuider
+hbuider
+idea
+chrome
+dbeaver
+ssh 192.168.5.190
+ssh root@192.168.5.190
+exit
+ssh root@192.168.5.190
+exit
+dbeaver
+ssh 192.168.5.190
+ssh root@192.168.5.190
+exit
+ssh root@192.168.5.190
+d:
+cd D:\AAAAA-workSpaceSingleOne\IDEA\edap-celery-http\target\test-classes
+cd com
+cd ..
+cd war
+put celery.war root@192.168.5.190:/root/
+put
+scp celery.war root@192.168.5.190:/root/celery.war
+cd d:/software
+ls
+ls | grep tomcat
+scp apache-tomcat-7.0.29.tar.gz root@192.168.5.190:/root/
+exit
+ssh root@192.168.5.190
+cd war
+put celery.war root@192.168.5.190:/root/
+put
+scp celery.war root@192.168.5.190:/root/celery.war
+cd d:/software
+ls | grep tomcat
+scp apache-tomcat-7.0.29.tar.gz root@192.168.5.190:/root/
+cd Desktop\
+scp simsun.ttc root@192.168.5.190:/usr/share/fonts/
+cd ..
+cd D:\AAAAA-workSpaceSingleOne\IDEA\edap-celery-http\target\war\
+ls
+scp celery.war root@192.168.5.190:/root/
+d:
+cd d:
+cd d:/
+wget -S -O http://www.youtypeitwepostit.com/api/
+wget
+curl
+ssh root@192.168.5.190
+exit
+lispbox
+lispbox.bat
+echo %PATH%
+exit
+ls | grep tomcat
+scp apache-tomcat-7.0.29.tar.gz root@192.168.5.190:/root/
+ls
+ssh root@192.168.5.190
+exit
+chrome
+d:
+hbuider
+hbuider
+ssh root@192.168.5.190
+exit
+exit
+chrome
+d:
+hbuider
+hbuider
+ssh root@192.168.5.190
+lispbox
+echo %path%
+echo %path% | grep lisp
+lispbox.bat
+echo %LISP_HOME%
+echo %LISPBOX_HOMEe%
+echo %LISPBOX_HOME%
+exit
+lispbox
+echo %LISPBOX_HOME%
+exit
+echo %LISPBOX_HOME%
+lispboc
+lispbox
+lispbox.bat
+exit
+lispbox
+lispbox.bat
+echo %LISPBOX_HOME%
+exit
+echo %LISP_HOME%
+lispbox
+echo %PATH%
+exit
+echo %PATH%
+ssh root@192.168.5.190
+exit
+echo %LISPBOX_HOME%
+exit
+echo %LISP_HOME%
+echo %PATH%
+lispbox.bat
+%LISP_HOME%\lispbox.bat
+d:
+%LISP_HOME%\lispbox
+lispbox
+cls
+exit
+exit
+ssh root@192.168.5.182
+ssh root@192.168.5.182
+ssh root@192.168.5.190
+exit
+ssh root@192.168.5.182
+exit
+exit
+ssh root@192.168.5.183
+ssh root@192.168.5.182
+exit
+lispbox
+echo %PATH%
+ssh root @192.168.5.190
+clear
+ssh root@192.168.5.190
+exit
+ssh root@192.168.5.183
+exit
+exit
+ssh root@192.168.5.183
+idea
+chrome
+ssh root@192.168.5.182
+ssh root@192.168.5.190
+ssh root@192.168.5.180
+ping 192.168.5.190
+exit
+idea
+chrome
+ssh root@192.168.5.180
+ping 192.168.5.190
+exit
+ssh root@192.168.5.190
+d:
+cd d:
+d:/
+cd d:\git-repository\
+ls
+git clone https://git.oschina.net/dongcb678/JfinalUIB.git
+clear
+ssh root@192.168.5.182
+ssh root@192.168.5.182
+ssh root@192.168.5.30
+ssh 192.168.5.190
+ping 192.168.5.190
+ssh root@192.168.5.190
+ping 192.168.5.190
+ssh root@192.168.5.191
+ssh root@192.168.5.190
+ssh root@192.168.5.184
+ssh root@192.168.5.192
+ssh root@192.168.5.182
+cd d:
+d:/
+cd d:\git-repository\
+ls
+git clone https://git.oschina.net/dongcb678/JfinalUIB.git
+ssh root@192.168.5.182
+ssh root@192.168.5.182
+ssh 192.168.5.190
+ping 192.168.5.190
+clear
+ssh root@192.168.5.190
+cls
+ssh root@192.168.5.30
+ping 192.168.5.30
+ssh root@192.168.5.115
+ssh root@192.168.5.184
+ssh root@192.168.5.183
+clear
+cls
+ssh root@192.168.5.30
+ssh root@192.168.5.115
+ssh root@192.168.5.184
+ssh root@192.168.5.183
+ping 192.168.5.10
+ping 192.168.5.114
+ping 192.168.5.30
+ping 192.168.5.115
+ping 192.168.5.190
+ssh root@192.168.5.190
+exit
+python
+python -verson
+python2
+echo %PATH%
+exit
+echo %PATH%
+ssh root@192.168.5.191
+ssh root@192.168.5.192
+python -verson
+python -version
+python --version
+exit
+echo %PATH%
+python
+   pip
+python --verson
+python --version
+ssh root@192.168.5.191
+ssh root@192.168.5.190
+exit
+exit
+scrapy
+pip
+cd Documents\
+ls
+vim pip.py
+python --verson
+python --version
+ssh root@192.168.5.191
+ssh root@192.168.5.190
+exit
+scrapy
+cd Documents\
+vim pip.py
+cd Documents
+ls
+python
+python -m pip install -U pip
+whereis pip
+pip
+python get-pip.py 
+exit
+ssh root@192.168.5.191
+python
+exit
+ssh root@192.168.5.190
+ssh root@192.168.5.190
+exit
+ssh root@192.168.5.190
+ssh root@192.168.5.184
+ssh root@192.168.5.192
+ssh root@192.168.5.182
+d:/
+cd d:\git-repository\
+ls
+git clone https://git.oschina.net/dongcb678/JfinalUIB.git
+ssh root@192.168.5.182
+ssh root@192.168.5.182
+ssh 192.168.5.190
+ping 192.168.5.190
+clear
+ssh root@192.168.5.190
+cls
+ssh root@192.168.5.30
+ping 192.168.5.30
+ssh root@192.168.5.115
+ssh root@192.168.5.184
+ssh root@192.168.5.183
+cls
+ssh root@192.168.5.30
+ssh root@192.168.5.115
+ssh root@192.168.5.184
+ssh root@192.168.5.183
+ping 192.168.5.10
+ping 192.168.5.114
+ping 192.168.5.30
+ping 192.168.5.115
+ping 192.168.5.190
+ssh root@192.168.5.190
+exit
+python
+python -verson
+python2
+echo %PATH%
+exit
+echo %PATH%
+ssh root@192.168.5.191
+ssh root@192.168.5.192
+python -verson
+python -version
+python --version
+exit
+echo %PATH%
+python
+   pip
+python --verson
+python --version
+ssh root@192.168.5.191
+ssh root@192.168.5.190
+exit
+exit
+scrapy
+pip
+cd Documents\
+ls
+vim pip.py
+ssh root@192.168.5.191
+ssh root@192.168.5.190
+exit
+cd Documents\
+vim pip.py
+cd Documents
+python
+whereis pip
+python get-pip.py 
+exit
+ssh root@192.168.5.191
+python
+exit
+python --verson
+python --version
+pip -version
+pip --version
+python -m pip install --upgrade pip
+pip
+pip uninstall
+pip uninstallException: Traceback (most recent call last):   File "C:\Program Files\python27\lib\site-packages\pip\basecommand.py", line 209, in main
+pip install Scrapy
+python -m pip install -U pip
+scrapy shell 'https://www.baidu.com'
+scrapy shell 'http://www.baidu.com'
+scrapy shell www.baidu.com'
+scrapy shell www.baidu.com
+scrapy shell 192.168.5.190:8080/celery
+scrapy shell http://192.168.5.190:8080/celery
+d:
+cd AAAAA-workSpaceSingleOne\
+cd PYCHARM\
+scrapy 
+scrapy crawl
+cd shouX002\
+scrapy runspider 
+scrapy runspider shouX002
+Scrapy
+Scrapy crawl shouX002
+Scrapy 
+scrapy crawl 
+scrapy crawl shouX002
+pip install ConnectMiddleware
+ping 192.168.5.132
+scrapy --version
+cd d:
+cd d:、
+cd d:/
+scrapy
+scrapy version
+cd AAAA-projectStudy\
+mkdir scrapy-demo
+cd scrapy-demo\
+scrapy startproject demo
+ls demo
+cd demo
+cd ../../
+scrapy genspider demo baidu.com
+scrapy genspider baidu baidu.com
+cd spiders\
+cat baidu.py 
+scrapy crawl baidu
+ll
+scrapy version -v
+scrapy list
+scrapy view http://baidu.com
+cd ..
+scrapy view http://www.jb51.net/article/65300.htm
+cd demo\
+rm article 
+scrapy runspider demo\spiders\baidu.py
+ls
+cat article 
+scrapy bench
+ssh root@192.168.5.132
+clear
+ssh root@192.168.5.190
+exit
+ssh root@192.168.5.191
+exit
+ssh root@192.168.5.190
+ssh root@192.168.5.132
+ping 192.168.5.30
+pip install selenium
+clear
+python
+ssh root@192.168.5.30
+ssh root@192.168.5.190
+exit
+d:
+cd D:\software\spring-boot-cli-1.5.4.RELEASE-bin\spring-1.5.4.RELEASE\bin
+ls
+spring.bat 
+spring.bat --version
+ssh root@192.168.5.190
+exit
+d:
+cd D:\software\spring-boot-cli-1.5.4.RELEASE-bin\spring-1.5.4.RELEASE\bin
+ls
+spring.bat 
+spring.bat --version
+spring
+spring --verison
+spring --version
+ping 192.168.5.30
+ping 192.168.5.115
+ping 192.168.5.190
+ping 192.168.5.191
+ping 192.168.5.192
+ssh root@192.168.5.192
+exit
+pip uninstall pdfminer
+exit
+pip install pdfminer
+python
+exit
+exit
+ssh root@192.168.5.191
+exit
+ssh root@192.168.5.190
+ssh root@192.168.5.132
+ping 192.168.5.30
+pip install selenium
+clear
+ssh root@192.168.5.30
+ssh root@192.168.5.190
+exit
+d:
+cd D:\software\spring-boot-cli-1.5.4.RELEASE-bin\spring-1.5.4.RELEASE\bin
+ls
+spring.bat 
+spring.bat --version
+ssh root@192.168.5.190
+exit
+cd D:\software\spring-boot-cli-1.5.4.RELEASE-bin\spring-1.5.4.RELEASE\bin
+spring.bat 
+spring.bat --version
+spring
+spring --verison
+spring --version
+ping 192.168.5.30
+ping 192.168.5.191
+ping 192.168.5.192
+ssh root@192.168.5.192
+cd C:\Users\liang\Documents\Tencent Files\349052318\FileRecv\pdfminer3k-1.3.1
+python setup.py
+python setup.py install
+python setup.py uninstall
+python setup.py remove
+python setup.py delete
+cat setup.py
+pip install pdfminer
+d:
+cd d:\\
+ls
+cls
+pdf2txt.py
+pdf2txt.py d:\\a.pdf
+python pdf2txt.py d:\\a.pdf
+pdf2txt 'd:\\a.pdf'
+python pdf2txt.py 'd:\\a.pdf'
+pdf2txt.py 'd:\\a.pdf'
+python
+python test.py
+ping 192.168.5.190
+ping 192.168.5.15
+ping 192.168.5.115
+ping 192.168.5.1
+exit
+scrapy runspider demo\spiders\baidu.py
+ls
+cat article 
+scrapy bench
+ssh root@192.168.5.132
+clear
+ssh root@192.168.5.190
+exit
+exit
+ssh root@192.168.5.190
+ssh root@192.168.5.132
+ping 192.168.5.30
+pip install selenium
+ssh root@192.168.5.30
+cd D:\software\spring-boot-cli-1.5.4.RELEASE-bin\spring-1.5.4.RELEASE\bin
+spring.bat 
+spring.bat --version
+ssh root@192.168.5.191
+cd d:\\
+cd d:
+d:
+ls
+clear
+python
+cls
+python zipTest.py
+ssh root@192.168.5.190
+exit
+python
+exit
+exit
+ssh root@192.168.5.191
+exit
+ssh root@192.168.5.190
+ssh root@192.168.5.132
+ping 192.168.5.30
+pip install selenium
+clear
+ssh root@192.168.5.30
+ssh root@192.168.5.190
+exit
+d:
+cd D:\software\spring-boot-cli-1.5.4.RELEASE-bin\spring-1.5.4.RELEASE\bin
+ls
+spring.bat 
+spring.bat --version
+ssh root@192.168.5.190
+exit
+cd D:\software\spring-boot-cli-1.5.4.RELEASE-bin\spring-1.5.4.RELEASE\bin
+spring.bat 
+spring.bat --version
+spring
+spring --verison
+spring --version
+ping 192.168.5.30
+ping 192.168.5.191
+ping 192.168.5.192
+cd C:\Users\liang\Documents\Tencent Files\349052318\FileRecv\pdfminer3k-1.3.1
+python setup.py
+python setup.py install
+python setup.py uninstall
+python setup.py remove
+python setup.py delete
+cat setup.py
+pip install pdfminer
+d:
+cd d:\\
+ls
+cls
+pdf2txt 'd:\\a.pdf'
+python pdf2txt.py 'd:\\a.pdf'
+pdf2txt.py 'd:\\a.pdf'
+python
+ping 192.168.5.190
+ping 192.168.5.15
+ping 192.168.5.1
+exit
+scrapy runspider demo\spiders\baidu.py
+ls
+cat article 
+scrapy bench
+ssh root@192.168.5.132
+clear
+ssh root@192.168.5.190
+exit
+exit
+ssh root@192.168.5.190
+ssh root@192.168.5.132
+ping 192.168.5.30
+pip install selenium
+ssh root@192.168.5.30
+cd D:\software\spring-boot-cli-1.5.4.RELEASE-bin\spring-1.5.4.RELEASE\bin
+spring.bat 
+spring.bat --version
+cd d:
+python zipTest.py
+groovy -e 'println 4'
+groovy -e 'println(7)'
+groovy --version
+d:\\
+d:
+cd d:\\
+groovyc test.groovy 
+java test.class
+javad test.class
+javap test.class 
+rm test.class 
+groovy test.groovy 
+rm -rf classes\
+groovyc -d classes test.groovy 
+ls classes\
+cd classes\ | ls
+cd classes\
+cd ..
+java -cp %GROOVY_HOME%/embeddable/groovy-all-2.4.12.jar;classes test
+ping 192.168.5.115
+ssh 192.168.5.191
+ssh root@192.168.5.191
+groovy
+groovysh
+clear
+ssh root@192.168.5.190
+ping 192.168.5.121
+ssh administrator@192.168.5.121
+ssh root@192.168.5.192
+python
+claer
+cls
+python test.py
+python pdf2txt.py
+whereis pdf2txt.py
+which pdf2txt.py
+/c/Program Files/python27/Scripts/pdf2txt.py 'd:\\a.pdf'
+c/Program Files/python27/Scripts/pdf2txt.py 'd:\\a.pdf'
+c:/
+c:\
+c:
+cd c:/
+./Program Files/python27/Scripts/pdf2txt.py 'd:\\a.pdf'
+Program Files/python27/Scripts/pdf2txt.py 'd:\\a.pdf'
+cd Program Files/python27/Scripts/
+./pdf2txt.py d:\\a.pdf
+pdf2txt.py
+pdf2txt.py d:\\a.pdf
+python pdf2txt.py d:\\a.pdf
+python pdf2txt.py "d:\\a.pdf"
+ls
+python pdf2txt.py -o a.txt "d:\\a.pdf" 
+exit
+python zipTest.py
+ssh root@192.168.5.190
+ssh root@192.168.5.192
+ssh root@192.168.5.191
+mysql
+exit
+cls
+python zipTest.py
+ssh root@192.168.5.190
+python 
+cd c:\Program Files\python27\Scripts
+python pdf2txt.py -o a.txt d:\\a.pdf
+python pdf2txt.py -o a.txt d:\\b.pdf
+cat a.txt
+python dumppdf.py -a d:\\a.pdf
+python dumppdf.py -a d:\\a.pdf >> d:\\yy.xml
+ls
+pip install tabula-py
+python
+exit
+which python
+mysql
+mysql -u skyon 
+mysql -u skyon -p
+clear
+exit
+clear
+@powershell -NoProfile -ExecutionPolicy unrestricted -Command "iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))" && SET PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin
+作者：泛原罪
+链接：http://www.jianshu.com/p/479d974078a7
+來源：简书
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+clist
+exit
+choco
+exit
+mysql
+mysql -u skyon 
+clear
+mysql -u skyon -p
+cd Desktop\
+ls
+python test.py
+python
+egrep
+grep
+ssh root@192.168.5.192
+exit
+choco
+clist
+python
+egrep
+ssh root@192.168.5.192
+choco
+choco -?
+clist
+clist grep
+start .
+cd Documents\study-files\
+ls
+cat words.txt | grep p[^u]
+cat words.txt | grep ^p[^u]
+cat words.txt 
+cat words.txt | grep ^p[u]
+cat words.txt | grep column
+choco install grepwin
+grepwin
+grep
+cat words.txt | grep in
+cat words.txt | grepw in
+cat words.txt | grepwin in
+exit
+cat words.txt | grep ^p[u]
+cat words.txt | grep column
+choco install grepwin
+cat words.txt | grep in
+cat words.txt | grepw in
+cat words.txt | grepwin in
+wingrep
+grepwin63
+grepwin64
+clist
+choco list grepwin
+choco info grepwin
+grepwin
+grepWin
+wgrep
+grep
+choco install expresso
+ping 100credit.cn
+ping api.100credit.cn
+exit
+choco install grepwin
+grepwin
+grep
+cat words.txt | grep in
+cat words.txt | grepw in
+cat words.txt | grepwin in
+cinstall expresso
+cinst expresso
+expresso
+express
+clist 
+Remove-Item -Recurse -Force "$env:ChocolateyInstall" -WhatIf
+[System.Text.RegularExpressions.Regex]::Replace( ` 
+[Microsoft.Win32.Registry]::CurrentUser.OpenSubKey('Environment').GetValue('PATH', '',  `
+%{[System.Environment]::SetEnvironmentVariable('PATH', $_, 'User')}
+[System.Text.RegularExpressions.Regex]::Replace( `
+[Microsoft.Win32.Registry]::LocalMachine.OpenSubKey('SYSTEM\CurrentControlSet\Control\Session Manager\Environment\').GetValue('PATH', '', `
+[Microsoft.Win32.RegistryValueOptions]::DoNotExpandEnvironmentNames).ToString(),  `
+[System.Text.RegularExpressions.Regex]::Escape("$env:ChocolateyInstall\bin") + '(?>;)?', '', `
+[System.Text.RegularExpressions.RegexOptions]::IgnoreCase) | `
+%{[System.Environment]::SetEnvironmentVariable('PATH', $_, 'Machine')}
+ssh root@192.168.5.190
+clear
+exit
+clist 
+Remove-Item -Recurse -Force "$env:ChocolateyInstall" -WhatIf
+[System.Text.RegularExpressions.Regex]::Replace( ` 
+[Microsoft.Win32.Registry]::CurrentUser.OpenSubKey('Environment').GetValue('PATH', '',  `
+%{[System.Environment]::SetEnvironmentVariable('PATH', $_, 'User')}
+[System.Text.RegularExpressions.Regex]::Replace( `
+[Microsoft.Win32.Registry]::LocalMachine.OpenSubKey('SYSTEM\CurrentControlSet\Control\Session Manager\Environment\').GetValue('PATH', '', `
+[Microsoft.Win32.RegistryValueOptions]::DoNotExpandEnvironmentNames).ToString(),  `
+[System.Text.RegularExpressions.Regex]::Escape("$env:ChocolateyInstall\bin") + '(?>;)?', '', `
+[System.Text.RegularExpressions.RegexOptions]::IgnoreCase) | `
+%{[System.Environment]::SetEnvironmentVariable('PATH', $_, 'Machine')}
+ssh root@192.168.5.190
+exit
+python
+d:
+cd d:/
+cd AAAA-projectStudy/
+scrapy startproject scrapy-job
+scrapy startproject scrapy_job
+cd scrapy_job
+ls  scrapy_job\
+cd scrapy_job\
+cd spiders\
+cd ..
+ls
+scrapy genspider boss http://www.zhipin.com
+scrapy shell
+scrapy shell http://www.zhipin.com/job_detail/1413336868.html
+clear
+scrapy shell http://www.zhipin.com/c101210100-p100101/?page=1&ka=page-1
+scrapy list
+scrapy crawl boss -o jobs.jl
+scrapy shell http://www.baidu.com
+scrapy shell https://www.baidu.com
+scrapy shell https://www.hao123.com
+scrapy shell https://www.126.com
+scrapy shell http://mail.126.com
+scrapy shell https://mail.126.com
+mysql
+mysqld
+链接：http://www.jianshu.com/p/479d974078a7
+來源：简书
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+clist
+exit
+choco
+exit
+mysql
+mysql -u skyon 
+clear
+mysql -u skyon -p
+cd Desktop\
+ls
+python test.py
+python
+egrep
+grep
+ssh root@192.168.5.192
+exit
+choco
+clist
+python
+egrep
+choco
+choco -?
+clist
+clist grep
+start .
+cd Documents\study-files\
+ls
+cat words.txt | grep p[^u]
+cat words.txt | grep ^p[^u]
+cat words.txt 
+cat words.txt | grep ^p[u]
+cat words.txt | grep column
+choco install grepwin
+grepwin
+grep
+cat words.txt | grep in
+cat words.txt | grepw in
+cat words.txt | grepwin in
+exit
+cat words.txt | grep ^p[u]
+cat words.txt | grep column
+choco install grepwin
+cat words.txt | grep in
+cat words.txt | grepw in
+cat words.txt | grepwin in
+wingrep
+grepwin63
+grepwin64
+clist
+choco list grepwin
+choco info grepwin
+grepwin
+grepWin
+wgrep
+grep
+choco install expresso
+ping 100credit.cn
+ping api.100credit.cn
+exit
+choco install grepwin
+grepwin
+grep
+cat words.txt | grep in
+cat words.txt | grepw in
+cat words.txt | grepwin in
+cinstall expresso
+cinst expresso
+expresso
+express
+clist 
+Remove-Item -Recurse -Force "$env:ChocolateyInstall" -WhatIf
+[System.Text.RegularExpressions.Regex]::Replace( ` 
+[Microsoft.Win32.Registry]::CurrentUser.OpenSubKey('Environment').GetValue('PATH', '',  `
+%{[System.Environment]::SetEnvironmentVariable('PATH', $_, 'User')}
+[System.Text.RegularExpressions.Regex]::Replace( `
+[Microsoft.Win32.Registry]::LocalMachine.OpenSubKey('SYSTEM\CurrentControlSet\Control\Session Manager\Environment\').GetValue('PATH', '', `
+[Microsoft.Win32.RegistryValueOptions]::DoNotExpandEnvironmentNames).ToString(),  `
+[System.Text.RegularExpressions.Regex]::Escape("$env:ChocolateyInstall\bin") + '(?>;)?', '', `
+[System.Text.RegularExpressions.RegexOptions]::IgnoreCase) | `
+%{[System.Environment]::SetEnvironmentVariable('PATH', $_, 'Machine')}
+ssh root@192.168.5.190
+clear
+exit
+clist 
+Remove-Item -Recurse -Force "$env:ChocolateyInstall" -WhatIf
+[System.Text.RegularExpressions.Regex]::Replace( ` 
+[Microsoft.Win32.Registry]::CurrentUser.OpenSubKey('Environment').GetValue('PATH', '',  `
+%{[System.Environment]::SetEnvironmentVariable('PATH', $_, 'User')}
+[System.Text.RegularExpressions.Regex]::Replace( `
+[Microsoft.Win32.Registry]::LocalMachine.OpenSubKey('SYSTEM\CurrentControlSet\Control\Session Manager\Environment\').GetValue('PATH', '', `
+[Microsoft.Win32.RegistryValueOptions]::DoNotExpandEnvironmentNames).ToString(),  `
+[System.Text.RegularExpressions.Regex]::Escape("$env:ChocolateyInstall\bin") + '(?>;)?', '', `
+[System.Text.RegularExpressions.RegexOptions]::IgnoreCase) | `
+%{[System.Environment]::SetEnvironmentVariable('PATH', $_, 'Machine')}
+ssh root@192.168.5.190
+exit
+python
+cd d:/
+cd AAAA-projectStudy/
+scrapy startproject scrapy-job
+scrapy startproject scrapy_job
+cd scrapy_job
+ls  scrapy_job\
+cd scrapy_job\
+cd spiders\
+cd ..
+scrapy genspider boss http://www.zhipin.com
+scrapy shell
+scrapy shell http://www.zhipin.com/job_detail/1413336868.html
+clear
+scrapy shell http://www.zhipin.com/c101210100-p100101/?page=1&ka=page-1
+scrapy list
+scrapy crawl boss -o jobs.jl
+scrapy shell http://www.baidu.com
+scrapy shell https://www.baidu.com
+scrapy shell https://www.hao123.com
+scrapy shell https://www.126.com
+scrapy shell http://mail.126.com
+scrapy shell https://mail.126.com
+mysqld
+ipconfig
+mysql
+cd c:/
+cd wamp64\
+cd ibn
+cd mysql
+cd mysql5.7.14\
+cd bin
+e:
+cd A_SKYON\
+cd A_PROJECT_CELERY\
+cd dataSql-mysql\
+c:\wamp64\bin\mysql\mysql5.7.14\bin\mysql -u root -p tett < celery-http.sql
+d:
+cd d:/software
+cd ngrok客户端windows+64版\
+cd "ngrok客户端windows 64版\
+ngrok -config=ngrok.cfg -subdomain gong 8080
+ssh root@192.168.5.192
+ssh root@192.168.5.191
+start d:\git-repository\
+start d:
+cd d:\git-repository\
+git clone https://github.com/langchenglc/langchenglc.github.io.git
+cd langchenglc.github.io\
+git commit -m 'init blog'
+git --help
+git commit -m 'init'
+git push remote
+git push origin --delete back-up
+git push origin --delete back_up
+git add *.*
+git add images/*
+ls
+git add images\*
+git push 
+git branch master
+git branch -a
+git branch
+git add index2.html
+git commit -m 'init2'
+git commit -m 'init3'
+git commit -m 'init4'
+git commit -m 'init5'
+git commit -m 'init6'
+git commit -m '数据库迁移'
+git config --global user.name langchenglc
+git config --global user.email langchenglc@qq.com
+git commit -m 'celery'
+git add
+git commit -m 'index.html'
+git commit -m 'blog copy'
+git commit -m "blog copy"
+git remote
+git remote -v
+git commit -a -m "pdf excel"
+git commit -a -m 'life'
+git commit -a -m "all files"
+git push origin
+git commit -a -m "java 注解"
+git commit 
+git commit -m "java annotation"
+git commit -m "life"
+git commit -a -m "index.html"
+git pull
+git commit -m "spring aop"
+git commit -m "new files"
+git commit -m "maven"
+git commit -m "jsp"
+git commit -m "files"
+git commit -m "spring-security"
+git add * 
+git commit -m "last"
+git status
+git commit -m "modify index.html"
+git add *
+git commit -m "index modify"
+git push
+ssh root@172.19.87.32
+ping 172.19.87.32
+ping 101.132.79.218
+ssh root@101.132.79.218
+scrapy shell https://www.hao123.com
+scrapy shell https://www.126.com
+scrapy shell http://mail.126.com
+scrapy shell https://mail.126.com
+mysql
+mysqld
+clear
+ping 192.168.5.200
+ssh root@192.168.5.191
+exit
+ssh root@172.19.87.32
+ping 172.19.87.32
+ping 101.132.79.218
+ssh root@101.132.79.218
+scrapy shell https://www.hao123.com
+scrapy shell https://www.126.com
+scrapy shell http://mail.126.com
+scrapy shell https://mail.126.com
+mysql
+mysqld
+ping 192.168.5.200
+ssh root@192.168.5.191
+cd d:
+cd d:/
+cd AAAA-projectStudy\
+cd ..
+clear
+cd git-repository\
+cd langchenglc.github.io\
+git status
+git commit -m 'think life'
+git commit -m "think life"
+git push
+c
+d:
+ls
+git add *
+git commit -m "spring-aop.html"
+git push origin
+c:
+wget http://localhost:8080/celery
+ipconfig
+ssh root@192.168.5.192
+exit
+git commit -m "files"
+git commit -m "spring-security"
+git commit -m "last"
+git commit -m "modify index.html"
+git add *
+git commit -m "index modify"
+git push
+ssh root@172.19.87.32
+ping 172.19.87.32
+ping 101.132.79.218
+ssh root@101.132.79.218
+scrapy shell https://www.hao123.com
+scrapy shell https://www.126.com
+scrapy shell http://mail.126.com
+scrapy shell https://mail.126.com
+mysql
+mysqld
+clear
+ping 192.168.5.200
+ssh root@192.168.5.191
+exit
+ssh root@172.19.87.32
+ping 172.19.87.32
+ping 101.132.79.218
+scrapy shell https://www.hao123.com
+scrapy shell https://www.126.com
+scrapy shell http://mail.126.com
+scrapy shell https://mail.126.com
+mysql
+mysqld
+ssh root@192.168.5.191
+cd d:
+cd AAAA-projectStudy\
+cd ..
+clear
+git commit -m 'think life'
+git commit -m "think life"
+c
+git commit -m "spring-aop.html"
+c:
+wget http://localhost:8080/celery
+exit
+ipconfig
+ping www.baidu.com
+ping 192.168.5.200
+d:
+cd d:/
+cd git-repository\
+cd langchenglc.github.io\
+git commit -m "to main"
+git commit -m "to mian"
+git push 
+git add * 
+git commit -m "modify showmain.js"
+git push origin
+git commit -m "" 
+git commit -m " " 
+git commit -m "modify show-main.js" 
+git commit -m "to top to main"
+git staus
+ git status
+git commit -m "add template.js"
+git pull
+git add *
+git commit -m "modify images names;"
+git push
+git status
+ls
+git add * | git commit -m "modify" | git push origin
+ping 192.168.5.192
+ssh root@192.168.5.192
+ssh root@101.128.79.218
+ssh root@101.132.79.218
+ssh root@101.132.79.218
+clear
+git commit -m 'think life'
+git commit -m "think life"
+c
+git commit -m "spring-aop.html"
+c:
+wget http://localhost:8080/celery
+ipconfig
+ssh root@192.168.5.192
+exit
+d:
+d:/
+cd d:、
+cd d:/
+cd git-repository\
+cd langchenglc.github.io\
+ls
+git add * | git commit -m "modify" | git push
+git add
+git commit -m "delete unused files"
+git push origin
+git commit -m "change images"
+kengen
+keygen
+git commit -m "modify links"
+git add * | git commit -m " modify show-main.js" | git push 
+git config --global user.name "langchenglc"
+git config --global user.email "langchenglc@qq.com"
+ssh-keygen -t rsa -C "langchenglc@qq.com"
+ssh langchenglc@qq.com
+ssh git@langchenglc.com
+ssh git@langchenglc.qq.com
+ssh git@github.com
+git config --list
+git status
+git add *
+git commmit -m "add git ssh"
+git commit -m "add git ssh"
+git push
+ssh root@101.132.79.218
+git commit -m "add git ssh"
+git push
+ssh 101.132.79.218
+ls
+clear
+ssh root@101.132.79.218
+ssh root@101.132.79.218
+exit
+ssh langchenglc@qq.com
+ssh git@langchenglc.com
+ssh git@langchenglc.qq.com
+ssh git@github.com
+git config --list
+git commmit -m "add git ssh"
+git commit -m "add git ssh"
+ssh root@101.132.79.218
+d:
+cd d:/
+cd git-repository\
+cd langchenglc.github.io\
+git push origin
+ssh-add
+ssh-agent bash
+ls
+git romote set-url origin git@github.com:langchenglc/langchenglc.github.io.git
+git remote set-url origin git@github.com:langchenglc/langchenglc.github.io.git
+git remote -v
+$ git remote -v origin  https://github.com/langchenglc/langchenglc.github.io.git (fetch) origin  https://github.com/langchenglc/langchenglc.github.io.git (push)
+git add *
+git status
+git commit -m "modify git ssh"
+git push
+hosts
+ssh root@192.168.5.192
+cal
+exit
+ssh root@101.132.79.218
+exit
+git add *
+git status
+git commit -m "modify git ssh"
+git push
+hosts
+cal
+exit
+exit
+ssh 101.132.79.218
+ssh root@101.132.79.218
+ssh root@192.168.5.190
+ssh root@192.168.5.192
+ssh root@101.132.79.218
+exit
+ssh root@192.168.5.192
+ssh root@101.132.79.218
+ping 192.168.5.115
+ping 192.168.5.190
+ssh root@192.168.5.192
+exit
+ssh root@192.168.5.191
+exit
+ssh root@192.168.5.190
+exit
+ping 192.168.5.190
+ssh root@192.168.5.192
+exit
+ssh root@192.168.5.191
+exit
+ssh root@192.168.5.190
+d:
+cd d:/
+cd git-repository\
+cd langchenglc.github.io\
+ls
+git commit -m 'ngrok'
+git push origin
+git add *
+git status
+git commit -m 'link'
+git push
+ssh root@101.132.79.218
+exit
+exit
+ssh root@192.168.5.190
+ping 192.168.5.190
+ssh root@192
+ssh root@190
+exit
+ssh root@192.168.5.190
+d:
+cd d:\git-repository\langchenglc.github.io\
+ls
+git commit -a -m 'show-main.js'
+git stauts
+git status
+git push
+exit
+exit
+ssh root@192.168.5.190
+ping 192
+ping 192.168.5.190
+ping 192.168.5.192
+ping 192.168.5.191
+ping 192.168.5.200
+ssh root@190
+exit
+git push
+ssh root@190
+ping http://8e2754cc.ngrok.io/
+ping 8e2754cc.ngrok.io
+ping http://1a319436.ngrok.io/celery
+ping 1a319436.ngrok.io/celery
+ping 1a319436.ngrok.io
+ssh root@101.132.79.218
+exit
+cd d:
+ls
+pwd
+d:
+cd d:\git-repository\langchenglc.github.io\
+git status
+git add *
+git commit -m "ai"
+git upsh
+git push
+ssh root@101.132.79.218
+telnet
+exit
+pip install itchat
+exit
+ssh 101.132.79.218
+ssh root@101.132.79.218
+exit
+pip install itchat
+exit
+ssh 101.132.79.218
+ping 192
+ping 192.168.5.192
+ping 192.168.5.190
+ping 192.168.5.191
+ping 101.132.79.218
+ssh root@101.132.79.218
+python3
+which python
+python
+exit
+pip install itchat
+exit
+ssh 101.132.79.218
+ssh root@101.132.79.218
+d:
+d:/
+cd d:\git-repository\langchenglc.github.io\
+git status
+git add *
+git commit -m "about me"
+git push
+ssh root@192
+exit
+python -v
+python
+pip3
+logout
+exit
+git commit -m "about me"
+git push
+ssh root@192
+exit
+python
+logout
+pip -v
+pip
+pip --version
+python3-m pip install --upgrade pip --force reinstall
+pip3
+python3 -m pip install --upgrade pip --force reinstall
+python3 d:\get-pip.py 
+d:
+cd d:/
+rm get-pip.py 
+ls
+python -v
+python3
+exit
+python -v
+python
+pip
+python3
+pip3
+exit
+pip3
+pip
+python3
+python
+exit
+python3
+pip -V
+pip -version
+pip --version
+pip -V
+pip -version
+python3
+pip --version
+pip2
+pip3
+pip3.7
+pip
+which pip3
+which pip
+which pip2
+exit
+echo %PATH%
+d:
+cd d:/
+rm get-pip.py 
+ls
+python -v
+exit
+python3
+pip3 -V
+pip3 install itchat
+which pip3
+python -m pip install -U pip
+python3 -m pip install -U pip
+pip3
+python3 -m pip install --upgrade pip
+python3 -m pip install --upgrade pip
+python3 -m pip install --upgrade pip --force-reinstall
+pip3 -V
+pip -V
+pip list
+pip list | sort | wc
+pip3 list | sort | wc
+pip3 install itchat
+python3
+echo %PATH%
+pip
+pip -V
+pip3 -V
+python3 -m pip install --upgrade pip --force-reinstall
+ping 192.168.5.30
+ssh root@192.168.5.30
+exit
+python3 -m pip install --upgrade pip --force-reinstall
+ping 6a1efc7f.ngrok.io
+exit
+exit
+z:
+cd software\
+cd dokuwiki\
+ls
+git init
+git add *
+cd dokuwiki\
+git init
+git add *
+z:
+cd software\dokuwiki\
+ls
+ll
+git status
+git pull origin
+git remote set-url https://github.com/langchenglc/dokuwiki.git
+git remote set-url origin https://github.com/langchenglc/dokuwiki.git
+git remote -v
+git push origin
+git push origin master
+git commit -m "init"
+z:
+cd z:\software\dokuwiki\
+ls
+git remote -v
+git push origin
+git commit -m "init"
+ssh root@101.132.79.218
+cd D
+d:
+cd D:\git-repository\langchenglc.github.io\
+git status
+git commit -m "name modify"
+git push origin master
+z:
+cd z:\software\dokuwiki\
+ls
+git add *
+git commit -m "add files"
+ssh root@218b
+exit
+git remote set-url https://github.com/langchenglc/dokuwiki.git
+git remote set-url origin https://github.com/langchenglc/dokuwiki.git
+git remote -v
+git push origin
+git commit -m "init"
+d:
+cd d:\git-repository\langchenglc.github.io\
+git commit -m "about me"
+git add *
+git commit -m "url"
+git push origin master
+exit
+pip install pyttsx
+exit
+git remote -v
+git push origin
+git commit -m "init"
+ssh root@101.132.79.218
+cd D
+d:
+cd D:\git-repository\langchenglc.github.io\
+git status
+git commit -m "name modify"
+git push origin master
+z:
+cd z:\software\dokuwiki\
+git add *
+git commit -m "add files"
+exit
+git remote set-url https://github.com/langchenglc/dokuwiki.git
+git remote set-url origin https://github.com/langchenglc/dokuwiki.git
+git remote -v
+git push origin
+git commit -m "init"
+cd d:\git-repository\langchenglc.github.io\
+git commit -m "about me"
+git add *
+git commit -m "url"
+git push origin master
+exit
+pip install pyttsx
+exit
+d:
+cd d:\testDir\
+vim py.py
+cat test.py
+python test.py 
+vim test.py 
+play out.mp
+play out.mp3
+pip3 install NetEase-MusicBox
+musicbox
+pip3
+pip3 -l
+pip3 list
+python3 test.py 
+gplay
+scp test.py root@218b:/root/
+python3
+pip install web.py
+pip3 install utils
+pip3 install db
+pip3 install web.py
+python
+mkdir webpy
+cd webpy
+mkdir static
+cd static
+cd ..
+ls
+python web.py 
+python my-web.py 
+python web2.py 
+python 
+python web4.py 
+ssh root@218b
+z:
+cd z:\software\dokuwiki\
+git add *
+git commit -m "add files"
+exit
+git remote set-url https://github.com/langchenglc/dokuwiki.git
+git remote set-url origin https://github.com/langchenglc/dokuwiki.git
+git remote -v
+git push origin
+git commit -m "init"
+git commit -m "about me"
+git commit -m "url"
+git push origin master
+exit
+cd d:\git-repository\langchenglc.github.io\
+cd blogs\
+cd ..
+git status
+git add *
+git commit -m "name"
+git push
+cd d:
+cd d:、
+cd d:/
+c:/
+cd
+c
+c:
+cd Documents\
+cd xmind-files\
+scp 阿里巴巴java开发手册-终极版.xmind root@218b:/var/www/html/
+python
+cls
+ssh root
+d:
+cd testDir\
+cd webpy\
+ls
+ssh root@218b
+git remote set-url https://github.com/langchenglc/dokuwiki.git
+git remote set-url origin https://github.com/langchenglc/dokuwiki.git
+git remote -v
+git push origin
+git commit -m "init"
+z:
+cd software\
+cd dokuwiki\
+d:
+cd d:\git-repository\langchenglc.github.io\
+git status
+git add *
+git commit -m "dokuwiki"
+git push origin master
+ipconfig
+ssh root@101.132.79.218
+c:
+python
+pip install pyttsx
+clear
+ssh root@218b
+ll
+ls | grep .bash
+cd
+ls
+ls -a
+alias 
+alias /?
+exit
+alias /?
+get
+wget
+curl
+curl http://218b/pdf/bitcoin.pdf ./Docuemnt/
+curl http://218b/pdf/bitcoin.pdf -o ./Docuemnt/bitcoine.pdf
+ls Documents\
+curl -o d:\testDir\a.pdf http://218b/pdf/bitcoin.pdf
+pwd
+ping 190a
+alias
+ali
+exit
+git commit -m "name"
+git push
+cd d:
+cd d:、
+c
+c:
+cd Documents\
+cd xmind-files\
+scp 阿里巴巴java开发手册-终极版.xmind root@218b:/var/www/html/
+python
+ssh root
+cd testDir\
+cd webpy\
+ssh root@218b
+alias 
+alias ali='ssh root@218b'
+alias -l
+alias ali=ssh@218b
+alias
+alias ali=ssh root@218b
+z:
+cd software\dokuwiki\
+git status
+clear
+d:/
+/
+cd d:/
+cd c:/
+c:/
+c: ;cd c:/
+d:;cd -
+cd
+cd software\
+c:;cd
+d:;cd
+d:
+ls
+cls
+awk
+egrep
+man grep
+grep
+sed
+ipconfig
+ping 不能为虚拟电脑 Ubuntu 打开一个新任务.
+Could not open the medium 'D:\virtual-machine\Ubuntu\Snapshots/{e73f8362-2f45-4c79-a01f-91b079c9b05d}.vdi'.
+VD: error VERR_PATH_NOT_FOUND opening image file 'D:\virtual-machine\Ubuntu\Snapshots/{e73f8362-2f45-4c79-a01f-91b079c9b05d}.vdi' (VERR_PATH_NOT_FOUND).
+返回 代码:E_FAIL (0x80004005)
+组件:MediumWrap
+界面:IMedium {4afe423b-43e0-e9d0-82e8-ceb307940dda}
+ping 192.168.5.201
+ping 10.0.2.15
+ping 192.168.5.190
+ali
+Could not open the medium 'D:\virtual-machine\Ubuntu\Snapshots/{e73f8362-2f45-4c79-a01f-91b079c9b05d}.vdi'.
+VD: error VERR_PATH_NOT_FOUND opening image file 'D:\virtual-machine\Ubuntu\Snapshots/{e73f8362-2f45-4c79-a01f-91b079c9b05d}.vdi' (VERR_PATH_NOT_FOUND).
+返回 代码:E_FAIL (0x80004005)
+组件:MediumWrap
+界面:IMedium {4afe423b-43e0-e9d0-82e8-ceb307940dda}
+ping 192.168.5.201
+ping 10.0.2.15
+ping 192.168.5.190
+d:
+cd d:/
+cd git-repository\langchenglc.github.io\
+git commit -m "add some files"
+git status
+git push origin master
+git commit -m "m"
+git push origin
+ali 
+git add *
+git commit -m "leanote bug"
+git push 
+ali
+cd software\
+c:;cd
+d:;cd
+cls
+awk
+egrep
+man grep
+grep
+sed
+ipconfig
+ping 不能为虚拟电脑 Ubuntu 打开一个新任务.
+Could not open the medium 'D:\virtual-machine\Ubuntu\Snapshots/{e73f8362-2f45-4c79-a01f-91b079c9b05d}.vdi'.
+VD: error VERR_PATH_NOT_FOUND opening image file 'D:\virtual-machine\Ubuntu\Snapshots/{e73f8362-2f45-4c79-a01f-91b079c9b05d}.vdi' (VERR_PATH_NOT_FOUND).
+返回 代码:E_FAIL (0x80004005)
+组件:MediumWrap
+界面:IMedium {4afe423b-43e0-e9d0-82e8-ceb307940dda}
+ping 192.168.5.201
+ping 10.0.2.15
+ping 192.168.5.190
+cd testDir\
+cd ..
+cd AAAA-projectStudy\
+cd spring-boot-demo\
+cd src\
+cd main\
+cd java\
+cd com
+cd gong\
+cd springbootdemo\
+grep 't' *
+grep '\d+' *
+grep '\\d+' *
+grep '[0-9]{3}' *
+grep '[0-9]{1}' *
+grep '[0-9]\{1\}' *
+grep '[0-9]+' *
+grep '[0-9]?' *
+grep '[0-9]\?' *
+grep '[0-9]\+' *
+grep  -n '[0-9]\+' *
+grep  -v '[0-9]\+' *
+clear
+last
+ll | awk '{print $1}'
+ll | awk '{print $1 "\t" $3}'
+ll | awk '{print $1 " " $3}'
+ll | awk '{FS=" "} {print $1}'
+ll | awk '{FS=" "}’
+ll | awk '{FS=" "}'
+ll | awk
+ll
+ali
+d:
+cd d:/
+cd git-repository\
+ls
+git clone https://github.com/wuzhouhui/awk.git
+apm
+git clone https://github.com/wuzhouhui/awk.git
+apm
+amp
+atom
+echo %PATH%
+echo %PATH% | grep atom
+exit
+echo %PATH% | grep atom
+echo %PATH% 
+amp
+apm
+atom
+echo %PATH% |　grep atom
+ali
+echo %PATH% | grep atom
+exit
+echo %PATH% | grep atom
+echo %PATH% 
+amp
+apm
+atom
+echo %PATH% |　grep atom
+d:
+cd d:\git
+cd d:\git-repository\
+git clone https://github.com/hezhen/spider-course-3.git
+git clone https://github.com/hezhen/spider-course-1.git
+cd spider-course-1
+git pull
+cd ..
+ls
+git clone https://github.com/hardikvasa/wikipedia-crawler.git
+git clone https://github.com/AndreiRegiani/wikipedia-crawler.git
+git clone https://github.com/AndreiRegiani/wikipedia-crawler.git wikipedia-crawler2
+clear
+ping 200a
+python
+ali
+atom
+echo %PATH%
+echo %PATH% | grep atom
+exit
+echo %PATH% | grep atom
+echo %PATH% 
+echo %PATH% |　grep atom
+amp
+apm
+atom
+echo %userprofile%
+d:/
+d:
+d:\git-repository\
+cd d:\git-repository\
+ls
+git clone https://github.com/hezhen/spider-course-3.git
+clear
+git clone https://github.com/xiaosimao/AiSpider.git
+git clone https://github.com/xiaosimao/IP_POOL.git
+git clone https://github.com/xiaosimao/weibo_spider.git
+redis
+ping 190a
+ssh root@190a
+ali
+ali
+pip install isort
+exit
+pip install isort
+exit
+z:
+cd software\
+cd dokuwiki\
+ls
+git status
+echo %PATH% |　grep atom
+ali
+echo %PATH% | grep atom
+exit
+echo %PATH% | grep atom
+echo %PATH% 
+amp
+apm
+atom
+echo %PATH% |　grep atom
+d:
+cd d:\git
+cd d:\git-repository\
+git clone https://github.com/hezhen/spider-course-3.git
+git clone https://github.com/hezhen/spider-course-1.git
+cd spider-course-1
+git pull
+ls
+git clone https://github.com/hardikvasa/wikipedia-crawler.git
+git clone https://github.com/AndreiRegiani/wikipedia-crawler.git
+git clone https://github.com/AndreiRegiani/wikipedia-crawler.git wikipedia-crawler2
+clear
+ping 200a
+ali
+atom
+echo %PATH%
+echo %PATH% | grep atom
+exit
+echo %PATH% | grep atom
+echo %PATH% 
+echo %PATH% |　grep atom
+amp
+apm
+atom
+echo %userprofile%
+d:/
+d:\git-repository\
+cd d:\git-repository\
+git clone https://github.com/hezhen/spider-course-3.git
+git clone https://github.com/xiaosimao/AiSpider.git
+git clone https://github.com/xiaosimao/IP_POOL.git
+git clone https://github.com/xiaosimao/weibo_spider.git
+redis
+ping 190a
+ali
+pip install isort
+pip list importmagic
+pip search importmagic
+pip install importmagic
+d:
+cd d:\tmp\
+cat weibo.py 
+cd urllib\
+cp urllib-s-1.py a.py
+isort a.py 
+cat a.py 
+rm a.py
+pip install python-language-server
+pip install jinja2
+pip search mysql
+pip search mysql-connector
+pip install mysql-connector-python
+pip install mysql-connector-python (2.0.4)
+pip install mysql-connector-python >=2.0.4
+pip install mysql-connector-python>=2.0.4
+pip install mysql-connector-python==2.0.4
+pip list | grep mysql
+pip install mysql-connector-python-rf
+pip install -i https://mirrors.aliyun.com/pypi/simple mysql-connector-python 
+pip install -i https://mirrors.aliyun.com/pypi/simple mysql-connector-python-rf
+ easy_install mysql-connector-python
+pip list
+pip install redis
+python -m pip install –upgrade pip
+python -m pip install -–upgrade pip
+python -m pip install --upgrade pip
+ssh root@192a
+ssh root@190a
+cd web\
+cd d:\git-repository\web-python\
+cd webg\
+python db.py 
+cd ..
+git clone https://github.com/yumaojun03/blog-python-app.git web-python-github
+pip list | grep requests
+z:
+ali
+ls
+clear
+python
+python
+git clone https://github.com/yumaojun03/blog-python-app.git web-python-github
+pip list | grep requests
+z:
+ali
+clear
+python
+ping 190a
+d:
+cd d:\git-repository\
+cd web-python
+ls
+python model.py
+pip list | grep requests
+z:
+ali
+ping 190a
+cd d:\git-repository\
+cd web-python
+python model.py
+d:
+cd d:\git-repository\web-python
+python model.py 
+pip list | grep web.py
+cd ..
+cd webpyg
+python hello.py 
+python
+clear
+ls
+cp hello.py z:\
+ali
+exit
